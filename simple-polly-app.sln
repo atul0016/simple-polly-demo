@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{94EAB59A-B33C-4DC9-B94F-74EF2CD3C8A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyApi", "PollyApi\PollyApi.csproj", "{09B31A83-3DF0-4FDB-9D42-B6F9B67EB647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EAB59A-B33C-4DC9-B94F-74EF2CD3C8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EAB59A-B33C-4DC9-B94F-74EF2CD3C8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EAB59A-B33C-4DC9-B94F-74EF2CD3C8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EAB59A-B33C-4DC9-B94F-74EF2CD3C8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B31A83-3DF0-4FDB-9D42-B6F9B67EB647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B31A83-3DF0-4FDB-9D42-B6F9B67EB647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B31A83-3DF0-4FDB-9D42-B6F9B67EB647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B31A83-3DF0-4FDB-9D42-B6F9B67EB647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {043844EC-A5F7-42DE-9E89-DD762BE425B9}
+	EndGlobalSection
+EndGlobal
