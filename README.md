@@ -1,5 +1,5 @@
 # Fault Tolerant in ASP.NET Core using Polly
-This is a simple proof of concept application developed to showcase how we can fault resiliency in .NET Core applications. To demonstrate this, we have implemented a simple application in an ASP.NET Core project using [Polly](https://github.com/App-vNext/Polly). 
+This is a simple proof of concept application developed to showcase how we can implement fault resiliency in .NET Core applications. To demonstrate this, we have implemented a simple application in an ASP.NET Core project using [Polly](https://github.com/App-vNext/Polly). 
 
 
 ## Prerequisites
